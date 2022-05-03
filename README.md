@@ -1,18 +1,30 @@
-Homework for week 5 of Bootcamp
+# JavaScript Quiz
 
-This is the homework for the fifth week of bootcamp. It teaches the use of of JavaScript through constructing a multiple-choice game that includes a timer and a record of highscores.
+## Table of Contents
 
-Installation
-The website can be viewed on a internet browser.
+- [Picture](#picture)
+- [Description](#description)
+- [License](#license)
+- [Installation](#installation)
+- [Usage](#usage)
 
-Image
-![alt text](./JSGame.png)
+## Picture
+![picture of quiz game](./JSGame.png)
 
-Usage
-The website has no outside links or subpages. One must only click on the 'Start button to begin the game, and the answers to play.
+## Description
+This is a quiz game that asks multiple-choice questions about Javascript. It has a timer that counts down and removes extra time for wrong answers, and it records high scores. It is a front-end application that uses JavaScript for its functionality.
 
-Credits
-No collaborators
+## License
+None
 
-License
-No license
+## Installation
+The website can be viewed on a internet browser, or the repository can be forked.
+
+## Usage
+The website has no outside links or subpages. One must only click on the 'Start' button to begin the game, and select the correct answers. If the time runs out, the game will end.
+
+## Deployed Application
+https://pasfrad.github.io/homework-week3-JSgame/
+
+## For Questions
+rd.hart@outlook.com
